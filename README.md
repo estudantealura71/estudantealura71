@@ -7,6 +7,9 @@ Estou desenvolvendo SCRATCH e Java Script: projeto Alura
 
 ![](https://media.tenor.com/Svqb8P6sg8QAAAAM/kakashi.gif)
 
+Currículo
+
+file:///C:/Users/WILLIAMLAZAROFONSECA/Downloads/William%20L%C3%A1zaro%20Fonseca.pdf
 
 
 Here are some ideas to get you started:
